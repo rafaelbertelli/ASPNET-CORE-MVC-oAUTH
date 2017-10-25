@@ -13122,11 +13122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\AspNet Core\\Minicurso Macoratti\\Tarefas\\Tarefas.csproj",
+      "projectUniqueName": "c:\\Projetos\\AspNet Core\\Minicurso Macoratti\\Tarefas\\Tarefas.csproj",
       "projectName": "Tarefas",
-      "projectPath": "C:\\Projetos\\AspNet Core\\Minicurso Macoratti\\Tarefas\\Tarefas.csproj",
+      "projectPath": "c:\\Projetos\\AspNet Core\\Minicurso Macoratti\\Tarefas\\Tarefas.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\AspNet Core\\Minicurso Macoratti\\Tarefas\\obj\\",
+      "outputPath": "c:\\Projetos\\AspNet Core\\Minicurso Macoratti\\Tarefas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

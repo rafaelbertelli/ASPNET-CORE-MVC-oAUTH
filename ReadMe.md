@@ -2,14 +2,14 @@
 
 ## ASP.NET CORE CLI
 
--dotnet new
--dotnet run
--dotnet build
--dotnet restore
--dotnet publish
--dotnet sln
--dotnet add package
--dotnet add reference
+*dotnet new
+*dotnet run
+*dotnet build
+*dotnet restore
+*dotnet publish
+*dotnet sln
+*dotnet add package
+*dotnet add reference
 
 ## Etapas do projeto
 
