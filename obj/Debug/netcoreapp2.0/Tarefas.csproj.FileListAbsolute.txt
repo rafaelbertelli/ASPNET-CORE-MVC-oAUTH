@@ -1,0 +1,12 @@
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\bin\Debug\netcoreapp2.0\app.db
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\bin\Debug\netcoreapp2.0\Tarefas.deps.json
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\bin\Debug\netcoreapp2.0\Tarefas.runtimeconfig.json
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\bin\Debug\netcoreapp2.0\Tarefas.runtimeconfig.dev.json
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\bin\Debug\netcoreapp2.0\Tarefas.dll
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\bin\Debug\netcoreapp2.0\Tarefas.pdb
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\obj\Debug\netcoreapp2.0\Tarefas.csproj.CoreCompileInputs.cache
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\obj\Debug\netcoreapp2.0\Tarefas.AssemblyInfoInputs.cache
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\obj\Debug\netcoreapp2.0\Tarefas.AssemblyInfo.cs
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\obj\Debug\netcoreapp2.0\Tarefas.dll
+C:\Projetos\AspNet Core\Minicurso Macoratti\Tarefas\obj\Debug\netcoreapp2.0\Tarefas.pdb
